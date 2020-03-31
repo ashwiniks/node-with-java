@@ -1,0 +1,26 @@
+{
+  "name": "node-java-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwiniks/node-with-java.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwiniks/node-with-java/issues"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "homepage": "https://github.com/ashwiniks/node-with-java#readme"
+}
