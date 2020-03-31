@@ -13,7 +13,7 @@ app.use((req,res)=>{
                 console.log(err)
             }
             console.log("output test",stdout);
-            res.json({"output":stdout});
+            res.json({"outputwithjava":stdout});
         })
     });
 });
