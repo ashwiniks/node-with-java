@@ -7,7 +7,7 @@ const childPorcess1 = exec('javac  simple.java', function(err, stdout, stderr) {
         if (err) {
             console.log(err)
         }
-        console.log("output",stdout)
+        console.log("output test",stdout)
     })
 })
 
