@@ -9,8 +9,9 @@ const childPorcess1 = exec('javac  simple.java', function(err, stdout, stderr) {
         }
         console.log("output test",stdout)
     })
-})
+});
 
+module.exports=childPorcess1;
 
 
 
